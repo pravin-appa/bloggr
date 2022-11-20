@@ -1,3 +1,10 @@
+# About Project
+ This project is based on NextJS and GraphQL. GraphQL is a headless content management system.
+ Here are some pics of project
+ ![Screenshot 2022-11-20 161325](https://user-images.githubusercontent.com/62396023/202898078-f85f3961-559f-48bb-bd7f-4090b232de6c.jpg)
+![Screenshot 2022-11-20 161357](https://user-images.githubusercontent.com/62396023/202898089-8f2d5240-be8e-4e69-b623-4de8c182f659.jpg)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
